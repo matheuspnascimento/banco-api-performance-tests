@@ -25,7 +25,7 @@ banco-api-performance-tests/
 │   ├── variaveis.js
 ├── .gitignore
 ├── README.md
-
+```
 ## Objetivo de Cada Grupo de Arquivos
 - **config/**: Contém arquivos de configuração, como `config.local.json`, que armazena configurações específicas do ambiente de teste, como URLs e chaves de API.
 - **fixtures/**: Armazena dados de exemplo ou payloads, como `postLogin.json`, utilizados como entrada para simular requisições na API durante os testes.
